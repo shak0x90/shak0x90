@@ -51,6 +51,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shak0x90's GitHub Stats" src="https://github-readme-stats.shak0x90.vercel.app/api?username=shak0x90&show_icons=true&hide_border=true" />
+[![shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shak0x90)](https://github.com/shak0x90/github-readme-stats)
 
 </details>
