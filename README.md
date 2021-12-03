@@ -25,8 +25,8 @@
 
 ``` Dart , Java ,Python
 {
-"Language" : ['Dart','Kotlin',Python'']
-"Frontend" : ['Flutter', 'Bootstrap',Android]
+"Language" : ['Dart','Kotlin','Python']
+"Frontend" : ['Flutter', 'Bootstrap','Android']
 "Backend"  : ['FireBase','RestAPI']
 "Database" : ['FireStore', 'MongoDB', 'Sqlite', 'MySQL']
 "UI"       : ['Meterial Design', 'SwiftUI']
