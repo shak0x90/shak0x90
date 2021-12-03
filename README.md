@@ -1,7 +1,7 @@
 ### Hi there, I'm Shakil Ahmed [website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sites.google.com/view/shakilahmed11/home)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/shakil0x)
+[![Website](https://img.shields.io/website?label=shakil0x.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sites.google.com/view/shakilahmed11/home)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shakil0x?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/shakil0x)
 
 ## I'm a Technology Lover and Developer!!
 
