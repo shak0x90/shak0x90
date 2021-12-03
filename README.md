@@ -14,10 +14,10 @@
 
 [![facebook](https://user-images.githubusercontent.com/29401466/87295335-d7e8aa80-c526-11ea-99be-ca20ba013a85.png)](https://web.facebook.com/shakil10101/)
 
-[<img align="left" alt="shak0x90 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCWGgno2RXAzHvkVZIR73vcQ]
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/shakil0x]
-[<img align="left" alt="shak0x90 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/shakil-ahmed-10101/]
-<!-- [<img align="left" alt="shak0x90 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[![linked](https://user-images.githubusercontent.com/29401466/87295135-935d0f00-c526-11ea-8f5a-208be1bd116d.png)](https://www.linkedin.com/in/shakil-ahmed-10101//)
+
+[![twitter](https://user-images.githubusercontent.com/29401466/87295693-62310e80-c527-11ea-8953-f2bc8a81f622.png)](https://twitter.com/shakil0x/)
+
 
 <br />
 
