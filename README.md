@@ -44,6 +44,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shak0x90)](https://github.com/shak0x90/github-readme-stats)
+[![shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shak0x90&show_icons=true&theme=radical)](https://github.com/shak0x90/github-readme-stats)
 
 </details>
