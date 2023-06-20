@@ -5,10 +5,10 @@
 
 ## I'm a Technology Lover and Developer!!
 
-- 🌱 I’m currently learning Flutter and Dart 🤣
+- 🌱 I’m currently learning Android, Flutter and Dart 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read novels and playing video games
+- ⚡ Fun fact: I love to read novels and play video games
 
 ### Connect with me:
 
@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-``` Dart , Java ,Python
+``` Dart , Java ,Kotlin,Python
 {
 "Language" : ['Dart','Kotlin','Python']
 "Frontend" : ['Flutter', 'Bootstrap','Android']
