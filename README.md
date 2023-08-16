@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakil0x" target="blank"><img src="https://img.shields.io/twitter/follow/shakil0x?logo=twitter&style=for-the-badge" alt="shakil0x" /></a> </p>
 
-- 🔭 I’m currently working on **Petpat (Android app)**
+- 🔭 I’m currently working on **OPUS (Android app)**
 
 - 🌱 I’m currently learning **Native Android and Flutter**
 
